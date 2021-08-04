@@ -1,8 +1,6 @@
-# Curso Intermediário de Angular - Digital Innovation One
+# Cadastrando filmes simulando o Back-end
 
-Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
-
-O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
+O projeto consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
 ## Instalação
 
@@ -11,7 +9,10 @@ O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edi�
 
 ## Ambiente Local
 
-Execute `ng serve` para que o projeto suba localmente. Acesse a url `http://localhost:4200/`. O projeto já está com reload automático conforme as alterações que você realizar no código
+Execute `ng serve` para que o projeto suba localmente. Acesse a url `http://localhost:4200/`. O projeto já está com reload automático conforme as alterações que você realizar no código.
+
+<br>
+<img 
 
 ## Simulando o Back-end
 
@@ -24,4 +25,5 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 ## Build
 
 Execute `ng build` para gerar o compilado do projeto. O projeto vai ser criado dentro do diretório `dist/`. Adicionar `--prod` junto comando de build para gerar minificado e pronto para o ambiente de produção.
+
 
